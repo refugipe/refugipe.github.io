@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://refugipe.github.io/sitemap/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/BYO/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/SnW/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/dcr/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/IHg/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/hDf/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/Jph/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/hRy/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/IVT/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/xuD/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/RuQ/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/SrZ/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/hto/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/NyL/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/CrZ/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/dgh/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/Jdh/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/oBl/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/Wkh/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/adt/sitemap_index.refugipe
+Sitemap: https://refugipe.github.io/NIy/sitemap_index.refugipe
